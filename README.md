@@ -23,7 +23,6 @@ Cleaned up, orgainized and filted Kickstarter data in order to uncover trends  b
 - It was discovered that Kickstarter who start there fund raising campaigns in May have a higher percentage of success in meeting their fund raising goal. 
 - ![alt text](https://raw.githubusercontent.com/jjcode-databootcamp/kickstarter-analysis/main/resources/Outcomes_Launch_Based_on_Month.png "Launch Graph")
 
-[]
 - It was also disovered that Kickstarters in the theater category have a higer number of kickstarters count overall then any other category
 - ![alt text](https://raw.githubusercontent.com/jjcode-databootcamp/kickstarter-analysis/main/resources/Parent_Category_Outcomes.png "Parent Category Graph")
 
@@ -35,7 +34,7 @@ Cleaned up, orgainized and filted Kickstarter data in order to uncover trends  b
 - There are very few theater kickstarters that are canceled completely. Most of the kickstarters are either "successful" or "failed"
 - Based on the chart it appears that successfully meeting the fund rasing goal is higher the failure. 
 - ![alt text][Outcome]
-[Outcome]: /resources/Theater_Outcomes_vs_Launch.png "outcome png"
+[Outcome]: https://raw.githubusercontent.com/jjcode-databootcamp/kickstarter-analysis/main/resources/Theater_Outcomes_vs_Launch.png "theater outcome png"
 
 2. Outcomes based on Goals
 - Ther are 0 canceled Kickstarters for teh category of "plays". Majority of the Kickstarters for "plays" have a goal amount of less then $10k
