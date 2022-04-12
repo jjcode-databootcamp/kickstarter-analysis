@@ -33,8 +33,7 @@ Cleaned up, orgainized and filted Kickstarter data in order to uncover trends  b
 1. Theater Outcomes by Launch Date:
 - There are very few theater kickstarters that are canceled completely. Most of the kickstarters are either "successful" or "failed"
 - Based on the chart it appears that successfully meeting the fund rasing goal is higher the failure. 
-- ![alt text][Outcome]
-[Outcome]: https://raw.githubusercontent.com/jjcode-databootcamp/kickstarter-analysis/main/resources/Theater_Outcomes_vs_Launch.png "theater outcome png"
+- - ![alt text](https://raw.githubusercontent.com/jjcode-databootcamp/kickstarter-analysis/main/resources/Theater_Outcomes_vs_Launch.png "theater outcome png")
 
 2. Outcomes based on Goals
 - Ther are 0 canceled Kickstarters for teh category of "plays". Majority of the Kickstarters for "plays" have a goal amount of less then $10k
